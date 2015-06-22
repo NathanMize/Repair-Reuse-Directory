@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Corvallis Reuse and Repair Directory</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">Corvallis Reuse and Repair Directory</string>
+    <string name="message"> Corvallis Reuse and Repair Directory</string>
+    <string name="action_settings">Settings</string>
+    <string name="repair">Repair</string>
+    <string name="explore">Start</string>
+    <string name="reuse">Reuse</string>
+    <string name="startOver">Start Over</string>
+    <string name="title_activity_display_data">Display Data</string>
+    <string name="link_message1">Recycle Depot Accepted Materials</string>
+    <string name="link_message2">Recycling Guide</string>
+    <string name="map_icon">Maps</string>
+</resources>

@@ -1,0 +1,132 @@
+body.home {
+    min-width: 1200px;
+}
+
+#modal {
+    width:360px;
+    height:189px;
+    padding:8px;
+ 
+    background:rgba(0,0,0,.3);
+ 
+    -webkit-border-radius:8px;
+    -moz-border-radius:8px;
+    border-radius:8px;
+ 
+    position:absolute !important;
+    top:50% !important;
+    left:50% !important;
+    margin-top:-94px !important;
+    margin-left:-180px !important;
+    z-index:101;
+
+    visibility: hidden;
+}
+
+
+.heading {
+	width: 100%;
+	background-image: linear-gradient(to bottom, #419641 0, #248424 100%);
+	color: #fff !important;
+    float: right;
+	padding: 70px 0 10px 0;
+}
+
+.heading h1 {
+	font-size: 300%;
+	margin-top: 100px;
+}
+
+.heading p {
+	font-size: 150%;
+}
+
+
+.container {
+  width: 1195px !important;
+}
+
+.main {
+    margin-bottom: 150px;
+}
+
+.marker {
+	height: 40px;
+}
+
+.account-group {
+    padding-top: 40px;
+}
+
+
+.scroll-box {
+    max-height: 730px;
+    overflow-y: auto;
+}
+
+
+
+.edit-del-col {
+	width: 150px;
+}
+
+.view-edit-del-col {
+    width: 260px;
+}
+
+.view-bus-data {
+    height: 30px;
+}
+
+
+.image-spacer {
+    float: left;
+    width: 10%;
+    max-width: 125px;
+    height: 200px;
+}
+
+.image-heading {
+    float: left;
+    min-width: 100px;
+    max-width: 400px;
+    margin: 15px 25px 25px 15px;
+}
+
+.image-square {
+	width: 200px;
+	height: 200px;
+}
+
+
+li {
+	list-style: none;
+}
+
+.check-box-grouping {
+    padding: 20px 30px 20px 30px;
+    background-color: #F1FAFF;
+}
+
+.selection {
+    height: 500px;
+    width: 700px;
+    overflow-y: auto;
+}
+
+.button-grouping {
+    padding-top: 10px;
+}
+
+
+.inline-item {
+    overflow: hidden; 
+    white-space: nowrap;
+    padding-left: 30px;
+    padding-top: 3px !important;
+}
+
+.inline-item:hover {
+    background-color: #6BB5FF;
+}
+
